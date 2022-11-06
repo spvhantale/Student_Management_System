@@ -21,10 +21,11 @@ Cloned:-https://famous-yeot-629bca.netlify.app/
 
 ## Features
 
--Add student details
--Accept student admission
--Reject student admission
-- 
+-Add student details.
+
+-Accept student admission.
+
+-Reject student admission.
 
 
 ## Screenshots
